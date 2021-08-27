@@ -6,5 +6,5 @@ setup(name='YOLO-digit-detector',
       author='Nikki A',
       author_email='abuschik.nika@mail.ru',
       url='nikkia5.github.io',
-      packages=['yolo3', 'model_data', 'font'],  
+      packages=['yolo3', 'model_data', 'font', 'convert.py'],  
      )
